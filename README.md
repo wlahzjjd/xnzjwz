@@ -25,7 +25,7 @@
 #### 8.点直接进入即可进入虚拟主机管理后台
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/142014_b4a4016b_8692298.png "屏幕截图.png")
 #### 9.绑定域名
-![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/142056_1954c635_8692298.png "屏幕截图.png")
+![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/164204_46297f67_8692298.png "屏幕截图.png")
 #### 10.上传文件
 ![输入图片说明](https://images.gitee.com/uploads/images/2021/0316/142129_22f78545_8692298.png "屏幕截图.png")
 #### 11.数据库管理
